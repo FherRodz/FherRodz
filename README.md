@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fher rodriguez
+- 👋 Hi, I’m Fher Rodriguez
 - 👀 I’m interested in web and mobile dev as well as data analysis
 - 🌱 I’m currently a senior software engineering undergrad
 - 💞️ I’m looking to collaborate on any web or mobile projects or anything interesting
